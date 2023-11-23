@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [SmartyURL](https://github.com/Extendy/SmartyURL/)
+- ⚡ Fun fact: If you're not paying, then you're not the customer, you're the product.
 <!--
 **mshannaq/mshannaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://github-readme-stats.vercel.app/api?username=mshannaq&count_private=true&show_icons=true&hide_title=false
