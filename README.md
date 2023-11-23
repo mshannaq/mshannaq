@@ -6,7 +6,7 @@ I'm Mohammed AlShannaq, a passionate programmer and tech enthusiast based in Jor
 
 
 - 🔭 I’m currently working on [SmartyURL](https://github.com/Extendy/SmartyURL/)
-- ⚡ Fun fact: If you're not paying, then you're not the customer, you're the product.
+- ⚡ Fun fact: If you're not paying, then you're not the customer, you're the product ... so self-host your products. 😎
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mshannaq&count_private=true&show_icons=true&hide_title=false)
 
