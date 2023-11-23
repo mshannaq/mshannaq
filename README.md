@@ -10,6 +10,9 @@ I'm Mohammed AlShannaq, a passionate programmer and tech enthusiast based in Jor
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mshannaq&count_private=true&show_icons=true&hide_title=false)
 
+#### 🌐 Learn More:
+If you're curious about the projects I'm currently working on or want to explore my coding journey further, feel free to check out my personal website: [ms.per.jo](http://ms.per.jo). There, you'll find detailed information about my projects, blog posts, and more.
+
 Looking forward to connecting with fellow developers and tech enthusiasts. Happy coding! 🚀
 
 <!--
